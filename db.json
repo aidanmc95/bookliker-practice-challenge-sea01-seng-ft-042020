@@ -23,16 +23,24 @@
       "img_url": "http://books.google.com/books/content?id=pkwCDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 10,
+          "id": "10",
           "username": "macejkovic"
         },
         {
-          "id": 4,
+          "id": "4",
           "username": "batz"
         },
         {
-          "id": 6,
+          "id": "6",
           "username": "steuber"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     },
@@ -59,12 +67,16 @@
       "img_url": "http://books.google.com/books/content?id=S3yODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 10,
+          "id": "10",
           "username": "macejkovic"
         },
         {
-          "id": 8,
+          "id": "8",
           "username": "goodwin"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     },
@@ -75,16 +87,36 @@
       "img_url": "http://books.google.com/books/content?id=bNYgCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 10,
+          "id": "10",
           "username": "macejkovic"
         },
         {
-          "id": 4,
+          "id": "4",
           "username": "batz"
         },
         {
-          "id": 8,
+          "id": "8",
           "username": "goodwin"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     },
@@ -95,12 +127,48 @@
       "img_url": "http://books.google.com/books/content?id=TmocdXScYFEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 7,
+          "id": "7",
           "username": "steuber"
         },
         {
-          "id": 4,
+          "id": "4",
           "username": "batz"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     },
@@ -111,12 +179,16 @@
       "img_url": "http://books.google.com/books/content?id=nSEVSnb8wpUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 3,
+          "id": "3",
           "username": "marvin"
         },
         {
-          "id": 5,
+          "id": "5",
           "username": "king"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     },
@@ -127,16 +199,24 @@
       "img_url": "http://books.google.com/books/content?id=dZs0DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 9,
+          "id": "9",
           "username": "nikolaus"
         },
         {
-          "id": 3,
+          "id": "3",
           "username": "marvin"
         },
         {
-          "id": 2,
+          "id": "2",
           "username": "auer"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     },
@@ -147,16 +227,36 @@
       "img_url": "http://books.google.com/books/content?id=hmbACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
+          "id": "8",
           "username": "goodwin"
         },
         {
-          "id": 6,
+          "id": "6",
           "username": "steuber"
         },
         {
-          "id": 5,
+          "id": "5",
           "username": "king"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     },
@@ -167,12 +267,16 @@
       "img_url": "http://books.google.com/books/content?id=dK5Gx6vbV2YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
+          "id": "8",
           "username": "goodwin"
         },
         {
-          "id": 10,
+          "id": "10",
           "username": "macejkovic"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     }
